@@ -33,7 +33,7 @@ The original narrative was shortened for synthetic-media generation because of f
 
 The script used for the experiment is available in:
 
-`source_script/task5_narrative.md`
+`task5_narrative.md`
 
 ---
 
@@ -95,7 +95,7 @@ Detailed detection results are available in:
 
 Supporting evidence is stored in the:
 
-`screenshots/`
+`snippets_for_reference/`
 
 folder.
 
@@ -140,14 +140,10 @@ Task_06_Deep_Fake/
 │
 ├── artifacts/
 │   ├── AI_GENERATED_AUDIO_ElevenLabs.mp3
-│   └── AI_GENERATED_VIDEO_HeyGen.mp4
 │
-├── detection/
-│   └── hive_heygen_video.json
 │
-└── screenshots/
-    ├── elevenlabs_generation.png
-    ├── heygen_generation.png
+└── ssnippet_for_reference/
+    ├── Ai_video_snippets
     └── hive_detection_result.png
 ```
 
